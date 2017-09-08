@@ -1,1 +1,1 @@
-hi this is sriram we have to talk about git today
+this is 2nd day of git practise
